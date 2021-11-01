@@ -2,5 +2,5 @@
 
 Only desktop
 
-Move <-A  D->  /\ - W  \/ -S
+Move <-A  D->  /\ - W    \/ -S
            
